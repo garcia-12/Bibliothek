@@ -1,0 +1,16 @@
+Bücher
+1;Christian Morgenstern;Gedichte in einem Band;956
+2;Joachim Ringelnatz;Gedichte und Prosa;155
+3;Heinz Kahlau;Du - Liebesgedichte;128
+4;Th. Bovet;Vom Stand des Christen in der Welt;255
+5;Heinrich von Kleist;Michael Kohlhaas;314
+6;Tippi Degré;Tippi aus Afrika;144
+7;Rainer Maria Rilke;Die Gedichte;1136
+CDs
+8;Obo;Towermusic;51'08
+9;Sade;The Best of Sade;62'37
+10;Christiane Dehmer;Longing;55'13
+11;Ludwig van Beethoven;Missa Solemnis;71'39
+13;Wolfgang Amadeus Mozart;Requiem;52'12
+15;Charlotte Höglund;Free;48'51
+16;Les Négresses Vertes;Face à la mer;04'53
